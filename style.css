@@ -150,7 +150,7 @@ header {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url(/images/fondo.jpeg);
+    background-image: url(./images/fondo.jpeg);
 
 }
 
@@ -244,7 +244,7 @@ header {
     height: 100vh;
     /* background-image: url(./images/fondo.jpeg); */
     /* background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); */
-    background-image: url(/images/fondoproj.svg);
+    background-image: url(./images/fondoproj.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -363,7 +363,7 @@ header {
 .experience {
     height: 100vh;
     /* background-color: ; */
-    background-image: url(/images/operador.webp);
+    background-image: url(./images/operador.webp);
     background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 1.5rem;
